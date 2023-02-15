@@ -1,2 +1,3 @@
 # Reading-Material
-Reading material and notes
+## EMC Related
+[Signal and Power Integrity - Simplified, Eric Bogatin (2018)](Signal and Power Integrity - Simplified, Eric Bogatin (2018).pdf)
